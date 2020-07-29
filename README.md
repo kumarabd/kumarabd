@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-[![Abishek's github stats](https://github-readme-stats.vercel.app/api?username=kumarabd)](https://github.com/kumarabd/github-readme-stats&count_private=true&show_icons=true&theme=gruvbox)@snap[north-east span-20]@quote[It's what I do that defines me.](Bruce Wayne)@snapend
+[![Abishek's github stats](https://github-readme-stats.vercel.app/api?username=kumarabd)](https://github.com/kumarabd/github-readme-stats&count_private=true&show_icons=true&theme=gruvbox) @snap[north-east span-20] @quote[It's what I do that defines me.](Bruce Wayne) @snapend
