@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/kumarabd/git-badges)](https://badges.pufler.dev)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kumarabd/kumarabd)[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/kumarabd/badges)
+[![Visits Badge](https://badges.pufler.dev/visits/kumarabd/git-badges)](https://badges.pufler.dev)[![Ask Me Anything !]  (https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]. (https://GitHub.com/kumarabd/kumarabd)[![made-with-Markdown]. (https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)[![Awesome Badges]. (https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/kumarabd/badges)
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/kumarabd/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/kumarabd/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/kumarabd/)
 
