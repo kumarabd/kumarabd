@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Abishek Kumar</h1>
 <h3 align="center">A passionate Site Reliability / Software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarabd" alt="kumarabd" /> ![Latest blog post workflow](https://github.com/kumarabd/kumarabd/workflows/Latest%20blog%20post%20workflow/badge.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarabd" alt="kumarabd" /> 
+
+[![Latest blog post workflow](https://github.com/kumarabd/kumarabd/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kumarabd/kumarabd)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/kumarabd/badges)
 
