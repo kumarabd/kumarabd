@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **abishekkumar92@gmail.com**
 
-- ⚡ Fun fact **Come play Dota2 with me**
+- ⚡ Fun fact **Career over cash**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
