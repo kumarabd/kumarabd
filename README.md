@@ -12,7 +12,7 @@
 
 </p>
 
-- 🔭 I’m currently working on [Layer5](https://layer5.io/)
+- 🔭 I’m currently working at [Layer5](https://layer5.io/)
 
 - 🌱 I’m currently learning **Services meshes / Kubernetes world**
 
