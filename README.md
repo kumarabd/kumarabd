@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Services meshes / Kubernetes world**
 
-- 👨‍💻 All of my projects are available at [https://realnighthawk.me/](https://realnighthawk.me/)
+- 👨‍💻 All of my projects are available at [https://abishekkumar.me/](https://abishekkumar.me/)
 
-- 📝 I randomly write articles on [https://realnighthawk.me/blog](https://realnighthawk.me/blog)
+- 📝 I randomly write articles on [https://abishekkumar.me/blog](https://abishekkumar.me/blog)
 
 - 📫 How to reach me **abishekkumar92@gmail.com**
 
