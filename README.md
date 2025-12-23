@@ -1,47 +1,109 @@
-<img src="https://github.com/kumarabd/kumarabd/blob/master/assets/paradise.png">
+<!--
+Cedar palette (earthy + calm):
+- Cedar Wood: #695A54
+- Cedar Green: #5E6737
+- Cream: #F6F1E9
+- Charcoal: #1C1B1A
+-->
 
-<h1 align="center">Hi 👋, I'm Abishek Kumar</h1>
-<h3 align="center">A passionate Site Reliability / Software engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarabd" alt="kumarabd" /> 
-
-
-![Latest blog post workflow](https://github.com/kumarabd/kumarabd/workflows/Latest%20blog%20post%20workflow/badge.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kumarabd/kumarabd)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/kumarabd/badges)
-
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/kumarabd/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/kumarabd/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/kumarabd/)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Abishek%20Kumar&fontSize=46&fontColor=F6F1E9&animation=fadeIn&color=0:695A54,100:5E6737" />
 </p>
 
-- 🔭 I’m currently working at [Layer5](https://layer5.io/)
+<h2 align="center">SRE / Software Engineer • Kubernetes • Service Mesh • Reliability</h2>
 
-- 🌱 I’m currently learning **Services meshes / Kubernetes world**
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kumarabd"><img src="https://komarev.com/ghpvc/?username=kumarabd&style=for-the-badge&color=695A54" alt="profile views" /></a>
+  <a href="https://github.com/kumarabd?tab=followers"><img src="https://img.shields.io/github/followers/kumarabd?style=for-the-badge&color=5E6737&labelColor=1C1B1A" alt="followers" /></a>
+  <a href="https://github.com/kumarabd?tab=stars"><img src="https://img.shields.io/github/stars/kumarabd?style=for-the-badge&color=695A54&labelColor=1C1B1A" alt="stars" /></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://abishekkumar.me/](https://abishekkumar.me/)
+<p align="center">
+  <a href="https://abishekkumar.me/"><img src="https://img.shields.io/badge/Portfolio-abishekkumar.me-695A54?style=for-the-badge&logo=googlechrome&logoColor=F6F1E9" /></a>
+  <a href="mailto:abishekkumar92@gmail.com"><img src="https://img.shields.io/badge/Email-abishekkumar92%40gmail.com-5E6737?style=for-the-badge&logo=gmail&logoColor=F6F1E9" /></a>
+  <a href="https://linkedin.com/in/kumarabd"><img src="https://img.shields.io/badge/LinkedIn-kumarabd-695A54?style=for-the-badge&logo=linkedin&logoColor=F6F1E9" /></a>
+  <a href="https://twitter.com/abd_abishek"><img src="https://img.shields.io/badge/X-@abd_abishek-5E6737?style=for-the-badge&logo=x&logoColor=F6F1E9" /></a>
+</p>
 
-- 📝 I randomly write articles on [https://abishekkumar.me/blog](https://abishekkumar.me/blog)
+---
 
-- 📫 How to reach me **abishekkumar92@gmail.com**
+### Now
+- 🧭 Building and operating reliable systems (Kubernetes, observability, CI/CD, incident response)
+- 🌱 Currently exploring: service meshes, platform engineering, and scalable developer tooling
+- ✍️ Writing: systems + infra learnings
 
-- ⚡ Fun fact **Career over cash**
+> ⚡ Fun fact: **Career over cash**
 
-### GitHub Recent Activity:
+---
+
+### Featured work
+- **Service templates & Go utilities:** opinionated starting points for microservices
+- **Open source (Meshery ecosystem + more):** reliability + engineering contributions
+
+---
+
+### Pinned projects
+- 🔹 `service-template` — microservice starter template  
+- 🔹 `go-email-validation` — small Go library  
+- 🔹 `portfolio` — personal site source  
+
+(Keep your GitHub “Pinned” repos updated — this section stays meaningful even without extra widgets.)
+
+---
+
+### GitHub stats (Cedar)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kumarabd&show_icons=true&hide_title=true&bg_color=0B0A09&title_color=F6F1E9&text_color=CBC4BE&icon_color=5E6737&border_color=695A54"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=kumarabd&show_icons=true&hide_title=true&bg_color=F6F1E9&title_color=695A54&text_color=1C1B1A&icon_color=5E6737&border_color=695A54"
+      alt="GitHub stats"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarabd&layout=compact&hide=html&bg_color=0B0A09&title_color=F6F1E9&text_color=CBC4BE&border_color=695A54"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarabd&layout=compact&hide=html&bg_color=F6F1E9&title_color=695A54&text_color=1C1B1A&border_color=695A54"
+      alt="Top languages"
+    />
+  </picture>
+</p>
+
+---
+
+### Recent GitHub activity
 <!-- GIT-RECENT-ACTIVITY:START -->
 <!-- GIT-RECENT-ACTIVITY:END -->
 
-### Blogs posts:
+---
+
+### Latest writing
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Languages and Tools:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
+---
 
-### Github Info:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarabd&layout=compact&hide=html" alt="kumarabd" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarabd&show_icons=true" alt="kumarabd" /></p>
+### Tools I use a lot
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="38" height="38" />
+</p>
 
 <p align="center">
-<a href="https://twitter.com/abd_abishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abd_abishek" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kumarabd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kumarabd" height="30" width="30" /></a>
-<a href="https://fb.com/abishekkumar92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abishekkumar92" height="30" width="30" /></a>
-<a href="https://instagram.com/abishek_it_is" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abishek_it_is" height="30" width="30" /></a>
-<a href="https://medium.com/@abishekkumar92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abishekkumar92" height="30" width="30" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:695A54,100:5E6737" />
 </p>
