@@ -7,7 +7,7 @@ Cedar palette (earthy + calm):
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Abishek%20Kumar&fontSize=46&fontColor=F6F1E9&animation=fadeIn&color=0:695A54,100:5E6737" />
+  <img src="https://raw.githubusercontent.com/kumarabd/kumarabd/master/assets/paradise.png" />
 </p>
 
 <h2 align="center">SRE / Software Engineer • Kubernetes • Service Mesh • Reliability</h2>
